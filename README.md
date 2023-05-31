@@ -8,7 +8,11 @@ Gurpal</a></h1>
 
 - 🔭 I’m currently working at Commutatus
 
-- 🌱 I’m currently Working on Frontend Engineering
+- 🌱 I’m currently Working on crafting exceptional user experiences
+
+- 🌱 I’m currently Learning AWS
+
+- 🧑‍💻 I love using Software as a solution for every problem
 
 - 💬 Ask me about **Reactjs & Next.js**
 
